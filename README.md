@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JohnSudeep7
 - 👀 I’m interested in Exploring web technologies
 - 🌱 I’m currently learning dotnet core web applications
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
       add a message below, I will try to reach out.
 ---
